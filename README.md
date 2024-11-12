@@ -37,8 +37,8 @@ tbd
 💼 Connect with Me
 
 I love discussing all things math, data science, and machine learning! Let’s connect:
-	•	LinkedIn: [Your LinkedIn]
-	•	Email: [Your Email Address]
+	•	LinkedIn: [https://www.linkedin.com/in/lukas-lang-26628730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+	•	Email: [20lukas03lang@gmail.com]
 
 📈 GitHub Stats
 
