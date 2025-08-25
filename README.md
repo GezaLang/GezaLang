@@ -48,12 +48,14 @@ Here’s a look at some of my recent work:
 - **Challenge:** Solved complex algorithmic problems under time constraints  
 - **Technologies:** Python, CSV; strong focus on data structures and algorithms  
 
-### 5. Additional Projects
+### 5. Automatizations and Animations
+- **Description:** Small collection of code that I have done for convenience or just out of curiosity; might add some other automatizations later on
+- **Note:** Feel free to browse through for more insights  
+- **Technologies:** Primarily Python
 
-- **Topics Explored:** Image deblurring, weather phenomena analysis, and comparative studies of root-finding algorithms  
-- **Note:** Feel free to browse through my smaller projects for more insights  
-- **Technologies:** Primarily Python, with a diverse tech stack across projects  
-
+### 6. "Advanced Programming" -university course 
+- This repository highlights selected projects from my Advanced Programming course at KU Ingolstadt-Eichstätt. Topics include numerical methods, climate data analysis, image processing (de-blurring), and fluid dynamics.
+- Due to academic and copyright considerations, implementations are not publicly available. If you're interested in reviewing the codebase, feel free to reach out.
 ---
 
 ## Connect with Me
