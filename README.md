@@ -1,23 +1,18 @@
 # Welcome To My GitHub
 
-Hello, I’m Lukas and I’m a dedicated student of Data Science and Mathematics @ KU Ingolstadt-Eichstätt, weaving together analytical thinking and technical skills to drive insights and innovation. Here’s a snapshot of my journey and projects.
+Hey, I'm Lukas and 
+I'm currently studying Data Science and Mathematics at KU Ingolstadt-Eichstätt. I enjoy digging into data, building models, and figuring out how math can help solve real-world problems. This space is where I share some of the projects I've worked on—mostly things I've built during uni or in my free time.
 
 ---
 
 ## About Me
 
-With a passion for both Data Science and Mathematics, I strive to build models and solutions grounded in solid theory and practical application. My goal is to tackle complex, real-world problems through data, while drawing on the mathematical rigor that makes for robust and reliable insights.
+I’ve always been drawn to the mix of theory and application. Whether it’s optimizing algorithms or analyzing data, I like working on problems that require both structure and creativity. My background in mathematics helps me approach data science with a solid foundation, and I’m always looking for ways to make models not just accurate, but understandable and useful.
 
-- **Education:** Currently studying Data Science and Mathematics @ KU Ingolstadt-Eichstätt
-- **Career Aspiration:** To contribute to the fields of Machine Learning and Data Science, with a strong mathematical foundation  
-- **Technical Skills:** Python, Data Structures & Algorithms, Machine Learning, Mathematical Modeling, Data Visualization, SQL, and more  
-
----
-
-## My Approach
-
-My perspective on data science is deeply influenced by mathematics. I believe in building solutions that are not only functional but also explainable, scalable, and resilient. Whether it’s tuning machine learning models or deriving insights from data, I strive for accuracy and clarity.
-
+- **Education:** B.Sc. in Data Science and Mathematics (in progress)  
+- **Interests:** Machine Learning, Scientific Computing, Mathematical Modeling  
+- **Tools I Use:** Python, SQL, Pandas, Matplotlib, Scikit-learn, and whatever else gets the job done
+  
 ---
 
 ## Featured Projects
